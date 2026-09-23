@@ -1,0 +1,10 @@
+data/raw/
+.env
+.env.local
+*.env
+node_modules/
+.next/
+.tools/
+*.tsbuildinfo
+test-results/
+*.log
